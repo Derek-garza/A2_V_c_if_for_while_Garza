@@ -1,0 +1,3 @@
+carros = ["350z", "Tahoe", "Ram"]
+for z in carros:
+  print(z)

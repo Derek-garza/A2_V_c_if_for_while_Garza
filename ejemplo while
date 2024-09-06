@@ -1,0 +1,4 @@
+derek = 2
+while derek < 6:
+  print(derek)
+  derek += 1
