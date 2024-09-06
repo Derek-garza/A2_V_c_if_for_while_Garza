@@ -14,4 +14,9 @@
 -![image](https://github.com/user-attachments/assets/19068076-ac62-4b8e-af19-c9f6c6fb316b)
 - caso 2 (falso)
 - ![image](https://github.com/user-attachments/assets/b37a7185-186b-4fe6-950d-7780d0628918)
-- 
+  - ## While
+  - ![image](https://github.com/user-attachments/assets/f2bbc383-fc7f-4f64-8e49-aeafc513ccaa)
+  - ## for
+  - ![image](https://github.com/user-attachments/assets/d0a3aac9-8e2f-4299-a9e2-ed951c973e9c)
+
+
